@@ -1,0 +1,5 @@
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Programming-Basics\2.Advanced-CSharp-MultidimensionalArrays\Problem_6\bin\Debug\Problem_6.exe.config
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Programming-Basics\2.Advanced-CSharp-MultidimensionalArrays\Problem_6\bin\Debug\Problem_6.exe
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Programming-Basics\2.Advanced-CSharp-MultidimensionalArrays\Problem_6\bin\Debug\Problem_6.pdb
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Programming-Basics\2.Advanced-CSharp-MultidimensionalArrays\Problem_6\obj\Debug\Problem_6.exe
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Programming-Basics\2.Advanced-CSharp-MultidimensionalArrays\Problem_6\obj\Debug\Problem_6.pdb

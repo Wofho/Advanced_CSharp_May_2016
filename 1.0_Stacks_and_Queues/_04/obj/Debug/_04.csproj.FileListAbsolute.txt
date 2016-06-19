@@ -1,0 +1,5 @@
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\1.0_Stacks_and_Queues\_04\bin\Debug\_04.exe.config
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\1.0_Stacks_and_Queues\_04\bin\Debug\_04.exe
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\1.0_Stacks_and_Queues\_04\bin\Debug\_04.pdb
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\1.0_Stacks_and_Queues\_04\obj\Debug\_04.exe
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\1.0_Stacks_and_Queues\_04\obj\Debug\_04.pdb

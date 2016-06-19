@@ -1,0 +1,6 @@
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\Pre-Exam\13March\BMarkup\bin\Debug\BMarkup.exe.config
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\Pre-Exam\13March\BMarkup\bin\Debug\BMarkup.exe
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\Pre-Exam\13March\BMarkup\bin\Debug\BMarkup.pdb
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\Pre-Exam\13March\BMarkup\obj\Debug\BMarkup.csprojResolveAssemblyReference.cache
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\Pre-Exam\13March\BMarkup\obj\Debug\BMarkup.exe
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\Pre-Exam\13March\BMarkup\obj\Debug\BMarkup.pdb

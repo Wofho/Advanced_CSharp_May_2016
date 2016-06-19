@@ -1,0 +1,5 @@
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\02. Sets and Dictionaries\03\bin\Debug\03.exe.config
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\02. Sets and Dictionaries\03\bin\Debug\03.exe
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\02. Sets and Dictionaries\03\bin\Debug\03.pdb
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\02. Sets and Dictionaries\03\obj\Debug\03.exe
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\02. Sets and Dictionaries\03\obj\Debug\03.pdb

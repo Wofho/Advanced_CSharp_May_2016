@@ -1,0 +1,9 @@
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Programming-Basics\1. Advanced_CSharp_Arrays_Lists_Stacks_Queues\Problem 5\bin\Debug\Problem 5.exe.config
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Programming-Basics\1. Advanced_CSharp_Arrays_Lists_Stacks_Queues\Problem 5\bin\Debug\Problem 5.exe
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Programming-Basics\1. Advanced_CSharp_Arrays_Lists_Stacks_Queues\Problem 5\bin\Debug\Problem 5.pdb
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Programming-Basics\1. Advanced_CSharp_Arrays_Lists_Stacks_Queues\Problem 5\obj\Debug\Problem 5.csprojResolveAssemblyReference.cache
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Programming-Basics\1. Advanced_CSharp_Arrays_Lists_Stacks_Queues\Problem 5\obj\Debug\Problem 5.exe
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Programming-Basics\1. Advanced_CSharp_Arrays_Lists_Stacks_Queues\Problem 5\obj\Debug\Problem 5.pdb
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\_Advanced_C#_Pretest\1. Advanced_CSharp_Arrays_Lists_Stacks_Queues\Problem 5\bin\Debug\Problem 5.exe.config
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\_Advanced_C#_Pretest\1. Advanced_CSharp_Arrays_Lists_Stacks_Queues\Problem 5\obj\Debug\Problem 5.exe
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\_Advanced_C#_Pretest\1. Advanced_CSharp_Arrays_Lists_Stacks_Queues\Problem 5\obj\Debug\Problem 5.pdb

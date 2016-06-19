@@ -1,0 +1,6 @@
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\05_Strings\05\bin\Debug\05.exe.config
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\05_Strings\05\bin\Debug\05.exe
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\05_Strings\05\bin\Debug\05.pdb
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\05_Strings\05\obj\Debug\05.exe
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\05_Strings\05\obj\Debug\05.pdb
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\05_Strings\05\obj\Debug\05.csprojResolveAssemblyReference.cache

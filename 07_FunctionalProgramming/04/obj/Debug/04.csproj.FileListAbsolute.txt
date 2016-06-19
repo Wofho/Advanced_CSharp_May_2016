@@ -1,0 +1,5 @@
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\07_FunctionalProgramming\04\bin\Debug\04.exe.config
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\07_FunctionalProgramming\04\bin\Debug\04.exe
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\07_FunctionalProgramming\04\bin\Debug\04.pdb
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\07_FunctionalProgramming\04\obj\Debug\04.exe
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\07_FunctionalProgramming\04\obj\Debug\04.pdb

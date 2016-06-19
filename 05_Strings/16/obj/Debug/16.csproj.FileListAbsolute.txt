@@ -1,0 +1,7 @@
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\05_Strings\16\bin\Debug\16.exe.config
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\05_Strings\16\bin\Debug\16.exe
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\05_Strings\16\bin\Debug\16.pdb
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\05_Strings\16\obj\Debug\16.exe
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\05_Strings\16\obj\Debug\16.pdb
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\05_Strings\16\bin\Debug\16.exe.CodeAnalysisLog.xml
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\05_Strings\16\bin\Debug\16.exe.lastcodeanalysissucceeded

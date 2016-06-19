@@ -1,0 +1,6 @@
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\Pre-Exam\13March\ChampionsLeague\bin\Debug\ChampionsLeague.exe.config
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\Pre-Exam\13March\ChampionsLeague\bin\Debug\ChampionsLeague.exe
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\Pre-Exam\13March\ChampionsLeague\bin\Debug\ChampionsLeague.pdb
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\Pre-Exam\13March\ChampionsLeague\obj\Debug\ChampionsLeague.csprojResolveAssemblyReference.cache
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\Pre-Exam\13March\ChampionsLeague\obj\Debug\ChampionsLeague.exe
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\Pre-Exam\13March\ChampionsLeague\obj\Debug\ChampionsLeague.pdb

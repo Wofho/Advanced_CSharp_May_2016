@@ -1,0 +1,6 @@
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Programming-Basics\2.Advanced-CSharp-MultidimensionalArrays\Problem_8\bin\Debug\Problem_8.exe.config
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Programming-Basics\2.Advanced-CSharp-MultidimensionalArrays\Problem_8\bin\Debug\Problem_8.exe
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Programming-Basics\2.Advanced-CSharp-MultidimensionalArrays\Problem_8\bin\Debug\Problem_8.pdb
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Programming-Basics\2.Advanced-CSharp-MultidimensionalArrays\Problem_8\obj\Debug\Problem_8.csprojResolveAssemblyReference.cache
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Programming-Basics\2.Advanced-CSharp-MultidimensionalArrays\Problem_8\obj\Debug\Problem_8.exe
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Programming-Basics\2.Advanced-CSharp-MultidimensionalArrays\Problem_8\obj\Debug\Problem_8.pdb

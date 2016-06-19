@@ -1,0 +1,6 @@
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\02. Sets and Dictionaries\10\bin\Debug\10.exe.config
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\02. Sets and Dictionaries\10\obj\Debug\10.csprojResolveAssemblyReference.cache
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\02. Sets and Dictionaries\10\bin\Debug\10.exe
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\02. Sets and Dictionaries\10\bin\Debug\10.pdb
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\02. Sets and Dictionaries\10\obj\Debug\10.exe
+C:\Users\Lyuben\Documents\Visual Studio 2015\Projects\Advanced_CSharp_May_2016\02. Sets and Dictionaries\10\obj\Debug\10.pdb
